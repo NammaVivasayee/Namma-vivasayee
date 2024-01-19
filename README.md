@@ -9,4 +9,4 @@ Our project  Namma VIVASAYI is a mobile application that can be used in agricult
 
 • This mobile service will definitely provide the complete information on all scheme components and subsidy pattern
 
-Our namma Vivasayee at free of cost in natural agriculture app. The best Agriculture app in Tamil. you can easy access in our app in offline mode and online mode. It is designed to be easy to use by everyone, not just the farmer
+Our namma Vivasayee at free of cost in natural agriculture app. The best Agriculture app in Tamil. you can easy access in our app in offline mode and online mode. It is designed to be easy to use by everyone, not just the farmer###
